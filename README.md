@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mark_zakaria
-- 👀 I’m interested in Microcontrollers
-- 🌱 I’m currently learning Embedded_C
+- 👀 I’m interested in SiPh
+- 🌱 I’m currently learning Ansys Lumerical
 - 💞️ I’m looking to collaborate on Finishing_my_bachelor's_degree
 - 📫 How to reach me markmichealzakaria@gmail.com
 - 😄 Hobbies: Music-GYM-drawing
